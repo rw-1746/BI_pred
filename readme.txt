@@ -9,8 +9,8 @@ The predicted pIC50 values are placed in the output folder.
 
 #Test run with bcrp dataset
 python /place/of/main.py /place/of/data_bcrp_part.csv /place/of/config_sample_bcrp_part.json
-The output results for a verification are in the output_examples folder.
+The output results for a verification is in the output_examples folder.
 
 #Test run with external test set
 python /place/of/main.py /place/of/data_externaltest.csv /place/of/config_sample_extest.json
-The output results for a verification are in the output_examples folder.
+The output results for a verification is in the output_examples folder.
