@@ -1,58 +1,16 @@
-# flow
-conda env create -f C:\Users\owner\Desktop\deploy_testenv.yml # success!
+#Create the environment
+conda env create -n pred_bcrp -f environment.yml
 
-# try to run
-python C:\Users\owner\Desktop\Deploy_ML\main.py C:\Users\owner\Desktop\Deploy_ML\dataset_bcrp_part.csv C:\Users\owner\Desktop\Deploy_ML\config_sample.json
+#How to get the predicted pIC50 in BCRP with the final simplified model
+The column name of compound_id and smiles should be indicated as "name" and "smiles" at config.json
+Execute like "python main.py {data} {config.json}"
+Example: python /place/of/main.py /place/of/dataset.csv /place/of/config.json (Use absolute path)
+The predicted pIC50 values are placed in the output folder.
 
-# try to run ex-testset
-python C:\Users\owner\Desktop\Deploy_ML\main.py C:\Users\owner\Desktop\Deploy_ML\data_externaltest.csv C:\Users\owner\Desktop\Deploy_ML\config_sample_extest.json
+#Test run with bcrp dataset
+python /place/of/main.py /place/of/data_bcrp_part.csv /place/of/config_sample_bcrp_part.json
+The output results for a verification are in the output_examples folder.
 
-# これはNG:python C:\Users\owner\Desktop\Deploy_ML\main.py dataset_bcrp_part.csv config_sample.json
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Test run with external test set
+python /place/of/main.py /place/of/data_externaltest.csv /place/of/config_sample_extest.json
+The output results for a verification are in the output_examples folder.
