@@ -1,0 +1,190 @@
+KEGGID,ChEMBLID,compound_name,smiles,pred_pIC50_final,tanimoto_max
+D00609,CHEMBL1558,prazosin hydrochloride,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC,8.597420259,0.434
+D10708,CHEMBL3301594,fostemsavir tromethamine,COc1cnc(-n2cnc(C)n2)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O,8.129310364,0.250
+D00530,CHEMBL1521,zaleplon,CCN(C(C)=O)c1cccc(-c2ccnc3c(C#N)cnn23)c1,8.054656383,0.226
+D02518,,dihydroxymethylfuratrizin,O=[N+]([O-])c1ccc(C=Cc2cnc(N(CO)CO)nn2)o1,7.47719134,0.188
+D00351,CHEMBL157101,ketoconazole,CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,7.243911392,0.253
+D04024,CHEMBL1201179,lapatinib tosilate hydrate,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,7.138925379,0.338
+D01682,,ceftiofur sodium,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(CSC(=O)c3ccco3)CSC12)c1csc(N)n1,6.989937316,0.216
+D10082,,suvorexant,Cc1ccc(-n2nccn2)c(C(=O)N2CCN(c3nc4cc(Cl)ccc4o3)CCC2C)c1,6.943571804,0.237
+D00895,CHEMBL929,delavirdine mesilate,CC(C)Nc1cccnc1N1CCN(C(=O)c2cc3cc(NS(C)(=O)=O)ccc3[nH]2)CC1,6.812212671,0.210
+D10711,,pemafibrate,CCC(Oc1cccc(CN(CCCOc2ccc(OC)cc2)c2nc3ccccc3o2)c1)C(=O)O,6.755500902,0.262
+D09699,CHEMBL439849,vilazodone hydrochloride,N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1,6.647993003,0.270
+D01206,CHEMBL1164729,febuxostat,Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O,6.618967792,1.000
+D01131,,lafutidine,O=C(C[S+]([O-])Cc1ccco1)NCC=CCOc1cc(CN2CCCCC2)ccn1,6.579518114,0.224
+D00641,,quinfamide,O=C(Oc1ccc2c(c1)CCCN2C(=O)C(Cl)Cl)c1ccco1,6.512753949,0.262
+D00914,,cefuroxime axetil,CON=C(C(=O)NC1C(=O)N2C(C(=O)OC(C)OC(C)=O)=C(COC(N)=O)CSC12)c1ccco1,6.483975965,0.202
+D00262,,cefuroxime,CON=C(C(=O)NC1C(=O)N2C(C(=O)O)=C(COC(N)=O)CSC12)c1ccco1,6.464710419,0.218
+,CHEMBL2146124,cefuroxime sodium,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(COC(N)=O)CS[C@H]12)c1ccco1,6.464710419,0.218
+D00331,CHEMBL35,furosemide,NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl,6.441923294,0.222
+,CHEMBL1339,vardenafil hydrochloride,CCCc1nc(C)c2c(O)nc(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,6.440581752,0.223
+,CHEMBL2005186,belumosudil,CC(C)NC(=O)COc1cccc(-c2nc(Nc3ccc4[nH]ncc4c3)c3ccccc3n2)c1,6.334335151,0.486
+D00400,,valsartan,CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C,6.314143254,0.227
+D10679,CHEMBL3137309,venetoclax,CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(NCC5CCOCC5)c([N+](=O)[O-])c4)c(Oc4cnc5[nH]ccc5c4)c3)CC2)=C(c2ccc(Cl)cc2)C1,6.307692421,0.213
+,CHEMBL3545062,velpatasvir,COC[C@H]1C[C@@H](c2nc(-c3ccc4c(c3)COc3cc5c(ccc6nc([C@@H]7CC[C@H](C)N7C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]c65)cc3-4)c[nH]2)N(C(=O)[C@H](NC(=O)OC)c2ccccc2)C1,6.304461136,0.207
+D11816,,belumosudil mesylate,CC(C)NC(=O)COc1cccc(-c2ncc3c(Nc4ccc5[nH]ncc5c4)cccc3n2)c1,6.30362232,0.333
+D09686,,tedizolid phosphate,Cn1nnc(-c2ccc(-c3ccc(N4CC(COP(=O)(O)O)OC4=O)cc3F)cn2)n1,6.295569688,0.198
+D07244,,clofoctol,CC(C)(C)CC(C)(C)c1ccc(O)c(Cc2ccc(Cl)cc2Cl)c1,6.295054463,0.190
+D10374,,lifitegrast,CS(=O)(=O)c1cccc(CC(NC(=O)c2c(Cl)cc3c(c2Cl)CCN(C(=O)c2ccc4ccoc4c2)C3)C(=O)O)c1,6.293128076,0.216
+D02274,,dantrolene sodium hydrate,O=C1N=C(O)CN1N=Cc1ccc(-c2ccc([N+](=O)[O-])cc2)o1,6.292390741,0.250
+,CHEMBL1520,vardenafil,CCCc1nc(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)[nH]n12,6.286938721,0.200
+D11138,,larotrectinib sulfate,O=C(Nc1cnn2ccc(N3CCCC3c3cc(F)ccc3F)nc12)N1CCC(O)C1,6.285556652,0.219
+D00608,CHEMBL1200561,doxazosin mesilate,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC,6.275532705,0.302
+,CHEMBL1257051,tedizolid,Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](CO)OC4=O)cc3F)cn2)n1,6.274218769,0.198
+D01372,CHEMBL135400,zopiclone,CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,6.271143309,0.198
+D10898,,neratinib maleat,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)C=CCN(C)C,6.270395853,0.234
+D00610,CHEMBL611,terazosin hydrochloride hydrate,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC,6.268520178,0.388
+D01896,CHEMBL799,cilostazol,O=C1CCc2cc(OCCCCc3nnnn3C3CCCCC3)ccc2N1,6.268466686,0.253
+D02731,,vardenafil dihydrochoride,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,6.254409729,0.221
+D11712,,pralsetinib,COC1(C(=O)NC(C)c2ccc(-n3cc(F)cn3)nc2)CCC(c2nc(C)cc(Nc3cc(C)[nH]n3)n2)CC1,6.243316419,0.240
+D09916,CHEMBL2010601,ivacaftor,CC(C)(C)c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O,6.23438554,0.290
+D02732,,pranlukast hydrate,O=C(Nc1cccc2c(=O)cc(-c3nn[nH]n3)oc12)c1ccc(OCCCCc2ccccc2)cc1,6.231559092,0.333
+D11273,,molidustat sodium,Oc1c(-n2ccnn2)cnn1-c1cc(N2CCOCC2)ncn1,6.224638508,0.225
+D10926,CHEMBL1983268,entrectinib,CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1,6.218809583,0.248
+D01465,,nizofenone fumarate,CCN(CC)Cc1nccn1-c1ccc([N+](=O)[O-])cc1C(=O)c1ccccc1Cl,6.211457323,0.268
+D10643,,isavuconazonium sulfate,CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(CC(O)(c2cc(F)ccc2F)C(C)c2nc(-c3ccc(C#N)cc3)cs2)c1,6.207815017,0.200
+D01564,,rilmazafone hydrochloride hydrate,CN(C)C(=O)c1nc(CNC(=O)CN)n(-c2ccc(Cl)cc2C(=O)c2ccccc2Cl)n1,6.205800226,0.209
+D01686,,cefteram pivoxil,CON=C(C(=O)NC1C(=O)N2C(C(=O)OCOC(=O)C(C)(C)C)=C(Cn3nnc(C)n3)CSC12)c1csc(N)n1,6.200811539,0.165
+D10223,,ibrutinib,C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,6.195493929,0.280
+D03648,CHEMBL1201216,dapiprazole hydrochloride,Cc1ccccc1N1CCN(CCc2nnc3n2CCCC3)CC1,6.193071806,0.338
+D11545,,ibrexafungerp citrate,CC(C)C(C)C1(C)CCC2(C)C3CCC4C5(COCC4(C)C(OCC(C)(N)C(C)(C)C)C(n4ncnc4-c4ccncc4)C5)C3=CCC2(C)C1C(=O)O,6.190989682,0.153
+D06670,,maraviroc,Cc1nnc(C(C)C)n1C1CC2CCC(C1)N2CCC(NC(=O)C1CCC(F)(F)CC1)c1ccccc1,6.175364468,0.221
+,CHEMBL3039514,elbasvir,COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1nc(-c2ccc3c(c2)O[C@@H](c2ccccc2)n2c-3cc3cc(-c4c[nH]c([C@@H]5CCCN5C(=O)[C@@H](NC(=O)OC)C(C)C)n4)ccc32)c[nH]1)C(C)C,6.168029837,0.211
+D11141,CHEMBL3989868,tucatinib,Cc1cc(Nc2ncnc3ccc(NC4=NC(C)(C)CO4)cc23)ccc1Oc1ccn2ncnc2c1,6.167224372,0.342
+D02554,,rifaximin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,6.165143341,0.179
+,CHEMBL2374220,ledipasvir,COC(=O)N[C@H](C(=O)N1CC2(CC2)C[C@H]1c1nc(-c2ccc3c(c2)C(F)(F)c2cc(-c4ccc5[nH]c([C@@H]6[C@H]7CC[C@H](C7)N6C(=O)[C@@H](NC(=O)OC)C(C)C)nc5c4)ccc2-3)c[nH]1)C(C)C,6.164552038,0.174
+,CHEMBL2103855,telotristat,Cc1ccn(-c2cc(Cl)ccc2[C@@H](Oc2cc(-c3ccc(C[C@H](N)C(=O)O)cc3)nc(N)n2)C(F)(F)F)n1,6.162056326,0.216
+D11644,,lurbinectedin,COc1ccc2[nH]c3c(c2c1)CCNC31CSC2c3c(OC(C)=O)c(C)c4c(c3C(COC1=O)N1C(O)C3Cc5cc(C)c(OC)c(O)c5C(C21)N3C)OCO4,6.145705212,0.214
+D11022,,lemborexant,Cc1ncc(OCC2(c3cccc(F)c3)CC2C(=O)Nc2ccc(F)cn2)c(C)n1,6.141821203,0.224
+D09974,,telotristat ethyl,CCOC(=O)C(N)Cc1ccc(-c2cc(OC(c3ccc(Cl)cc3-n3ccc(C)n3)C(F)(F)F)nc(N)n2)cc1,6.139484117,0.212
+D04145,,fendosal,O=C(O)c1cc(-n2c(-c3ccccc3)cc3c2CCc2ccccc2-3)ccc1O,6.134360231,0.219
+D00411,CHEMBL603,zafirlukast,COc1cc(C(=O)NS(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,6.116021204,0.275
+D09996,CHEMBL1229517,vemurafenib,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,6.11529781,0.195
+D11523,,enarodustat,O=C(O)CNC(=O)c1c(=O)cc(CCc2ccccc2)n2[nH]cnc12,6.113693604,0.268
+D06413,CHEMBL1201740,nilotinib hydrochloride hydrate,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,6.108901388,0.517
+D01236,CHEMBL1755,conivaptan hydrochloride,Cc1nc2c([nH]1)CCN(C(=O)c1ccc(NC(=O)c3ccccc3-c3ccccc3)cc1)c1ccccc1-2,6.102593252,0.343
+,CHEMBL345524,antrafenine,O=C(OCCN1CCN(c2cccc(C(F)(F)F)c2)CC1)c1ccccc1Nc1ccnc2cc(C(F)(F)F)ccc12,6.100864683,0.266
+D02480,CHEMBL1334860,diloxanide furoate,CN(C(=O)C(Cl)Cl)c1ccc(OC(=O)c2ccco2)cc1,6.09824865,0.264
+D00439,,nitrofurantoin,O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,6.09729214,0.189
+,CHEMBL1201000,nitrofurantoin sodium,O=C1CN(/N=C/c2ccc([N+](=O)[O-])o2)C(=O)N1,6.09729214,0.189
+D11314,,difamilast,CCOc1ccccc1C(=O)NCc1coc(-c2ccc(OC(F)F)c(OC(C)C)c2)n1,6.095567642,0.238
+D00476,CHEMBL608,probucol,CC(C)(Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1)Sc1cc(C(C)(C)C)c(O)c(C(C)(C)C)c1,6.095004791,0.155
+D00387,CHEMBL646,triazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2,6.091987049,0.211
+D10967,,ozanimod hydrochloride,CC(C)Oc1ccc(-c2nc(-c3cccc4c3CCC4NCCO)no2)cc1C#N,6.087263705,0.267
+D10625,,elbasvir,COC(=O)NC(C(=O)N1CCCC1C1=NCC(c2ccc3c(c2)OC(c2ccccc2)n2c-3cc3cc(-c4cnc(C5CCCN5C(=O)C(NC(=O)OC)C(C)C)[nH]4)ccc32)=N1)C(C)C,6.086593093,0.208
+D02321,CHEMBL43,amsacrine,COc1cc(NS(C)(=O)=O)ccc1Nc1c2ccccc2nc2ccccc12,6.079713906,0.421
+D00808,,suramin hexasodium,Cc1ccc(C(=O)Nc2ccc(S(=O)(=O)O)c3cc(S(=O)(=O)O)cc(S(=O)(=O)O)c23)cc1NC(=O)c1cccc(NC(=O)Nc2cccc(C(=O)Nc3cc(C(=O)Nc4ccc(S(=O)(=O)O)c5cc(S(=O)(=O)O)cc(S(=O)(=O)O)c45)ccc3C)c2)c1,6.078173936,0.274
+D09017,,ticagrelor,CCCSc1nc(NC2CC2c2ccc(F)c(F)c2)c2nnn(C3CC(OCCO)C(O)C3O)c2n1,6.075721783,0.165
+D01526,,sulfisomidine,Cc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(C)n1,6.074020144,0.265
+D00523,CHEMBL1513,irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,6.071320142,0.224
+D11323,,umbralisib tosylate,CC(C)Oc1ccc(-c2nn(C(C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F,6.070889942,0.257
+D00225,CHEMBL661,alprazolam,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2,6.067133642,0.262
+D02555,,posaconazole,CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O,6.065144595,0.183
+D11422,,zanubrutinib,C=CC(=O)N1CCC(C2CCNc3c(C(N)=O)c(-c4ccc(Oc5ccccc5)cc4)nn32)CC1,6.064316852,0.297
+D01474,CHEMBL1200507,iodixanol,CC(=O)N(CC(O)CN(C(C)=O)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,6.06366202,0.162
+D00350,CHEMBL64391,itraconazole,CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O,6.048622419,0.176
+D01669,,tazanolast,CCCCOC(=O)C(=O)Nc1cccc(-c2nn[nH]n2)c1,6.045284433,0.291
+D01690,,vesnarinone,COc1ccc(C(=O)N2CCN(c3ccc4c(c3)CCC(=O)N4)CC2)cc1OC,6.044989558,0.321
+,CHEMBL1200937,dalfopristin,CCN(CC)CCS(=O)(=O)[C@@H]1CCN2C(=O)c3coc(n3)CC(=O)C[C@H](O)/C=C(C)/C=C/CNC(=O)/C=C/[C@@H](C)[C@@H](C(C)C)OC(=O)[C@@H]12,6.032227958,0.134
+D01514,,etizolam,CCc1cc2c(s1)-n1c(C)nnc1CN=C2c1ccccc1Cl,6.03133222,0.222
+,CHEMBL3137318,talazoparib tosylate,Cn1ncnc1[C@H]1c2n[nH]c(=O)c3cc(F)cc(c23)N[C@@H]1c1ccc(F)cc1,6.031204553,0.187
+D01563,,indigocarmine,O=C1C(c2[nH]c3ccc(S(=O)(=O)O)cc3c2O)=Nc2ccc(S(=O)(=O)O)cc21,6.030490337,0.207
+D09572,CHEMBL2107834,riociguat,COC(=O)N(C)c1c(N)nc(-c2nn(Cc3ccccc3F)c3ncccc23)nc1N,6.02696448,0.216
+D09951,CHEMBL1171837,ponatinib hydrochloride,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12,6.023433659,0.398
+D11073,CHEMBL3402762,tepotinib hydrochloride hydrate,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1,6.023043468,0.284
+D01744,,brotizolam,Cc1nnc2n1-c1sc(Br)cc1C(c1ccccc1Cl)=NC2,6.02250802,0.213
+,CHEMBL3948730,umbralisib,CC(C)Oc1ccc(-c2nn([C@@H](C)c3oc4ccc(F)cc4c(=O)c3-c3cccc(F)c3)c3ncnc(N)c23)cc1F,6.020803087,0.257
+D01220,,trapidil,CCN(CC)c1cc(C)nc2ncnn12,6.020526637,0.224
+D01655,CHEMBL922,adefovir pivoxil,CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,6.018231719,0.167
+,CHEMBL3544914,tezacaftor,CC(C)(CO)c1cc2cc(NC(=O)C3(c4ccc5c(c4)OC(F)(F)O5)CC3)c(F)cc2n1C[C@@H](O)CO,6.012926218,0.174
+D00255,CHEMBL1201167,carvedilol,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,6.008355785,0.418
+D10104,CHEMBL2105729,dabrafenib mesilate,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,6.007317251,0.200
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
