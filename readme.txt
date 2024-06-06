@@ -22,5 +22,3 @@ The output results for a verification is in the output_examples folder.
 
 ####### Predicted results on approved drugs
 Predicted_pIC50_Top100.csv
-
-####### 
