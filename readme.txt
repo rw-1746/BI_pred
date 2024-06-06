@@ -1,3 +1,8 @@
+####### Datasets
+1. BCRP dataset
+2. Approved drug
+
+####### Prediction for BCRP inhibition 
 #Create the environment
 conda env create -n pred_bcrp -f environment.yml
 
