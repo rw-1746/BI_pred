@@ -1,6 +1,6 @@
 ####### Datasets
 1. BCRP dataset
-2. Approved drug
+2. Approved drugs
 
 ####### Prediction for BCRP inhibition 
 #Create the environment
