@@ -19,3 +19,8 @@ The output results for a verification is in the output_examples folder.
 #Test run with external test set
 python /place/of/main.py /place/of/data_externaltest.csv /place/of/config_sample_extest.json
 The output results for a verification is in the output_examples folder.
+
+####### Predicted results on approved drugs
+Predicted_pIC50_Top100.csv
+
+####### 
