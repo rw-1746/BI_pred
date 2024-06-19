@@ -1,6 +1,8 @@
 ####### Datasets
 1. BCRP dataset
+The dataset containing 1238 compounds with IC50 values and structure information
 2. Approved drugs
+The dataset of approved drugs containing 4324 compounds derived from KEGG drug (https://www.genome.jp/kegg/drug/drug_ja.html)
 
 ####### Prediction for BCRP inhibition 
 #Create the environment
